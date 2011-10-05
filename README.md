@@ -1,3 +1,8 @@
+Install
+=======
+
+Get the latest version of Purugin, and place this in your minecraft servers plugin folder.
+
 Usage
 =====
 
